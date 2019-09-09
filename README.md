@@ -13,3 +13,8 @@ Git Bash চালু করে আপনার গিটহাবে আগে 
 `git clone https://github.com/mahabubfreelancerbd/masumitcenter.git`
 
 এই ক্লোন বা কপি করা ফাইল সেইভ হবে C:\Users\YourUserName এ আমার ক্ষেত্রে এটা C:\Users\Dell ফোল্ডার এর মধ্যে
+
+----------------------------
+To remove a remote repository you enter:
+
+git remote rm origin
